@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 @font-face {
     font-family: 'Rancho-Regular';
     src:url(../fonts/Rancho-Regular.ttf) format('truetype');
@@ -534,14 +528,14 @@ padding:4em 0;
 text-align:center;
 }
 .about-section h2 {
-	    font-size: 3.5em;
+    font-size: 3.5em;
     text-transform: capitalize;
     font-family: 'Rancho-Regular';
     color: #222;
     margin-bottom: 0.5em;
 }
 .about-section img {
-   width: 100%;
+    width: 50%;
 }
 .about-section h5 {
     font-size: 1.2em;
@@ -551,9 +545,11 @@ text-align:center;
     font-weight: 600;
 }
 .about-section p {
-  font-size: 1em;
-  line-height: 2em;
-  color: #777;
+    font-size: 1em;
+    line-height: 2em;
+    color: #777;
+    text-align: justify;
+    margin-bottom: 15px;
 }
 .why-choose {
     padding: 4em 0 ;
