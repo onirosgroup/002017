@@ -465,7 +465,6 @@ ul#flexiselDemo1 li a h4:hover{
     color: #5ab645
 }
 .touch-section {
-    padding: 4em 0;
     text-align: center;
     background-color: #eee;
 }
@@ -650,6 +649,7 @@ text-align:center;
 /*--services start here--*/
 .services {
   padding: 4em 0em;
+  background: #eee;
 }
 .services-main h2 {
  font-size: 3.5em;
@@ -1642,4 +1642,16 @@ span.glyphicon.glyphicon-user, span.glyphicon.glyphicon-camera, span.glyphicon.g
     font-size: 0.9em;
     width: 24%;
 }
+}
+
+.slogan {
+    text-align: right;
+    margin-top: 15px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.contact-link {
+    margin-top: 55px;
+    margin-left: 60px;
 }
